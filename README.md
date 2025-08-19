@@ -1,3 +1,3 @@
 # Favitetris
 
-demo @ [https://favitestris.jossafossa.nl]
+demo @ https://favitestris.jossafossa.nl
